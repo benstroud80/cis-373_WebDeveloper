@@ -10979,7 +10979,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 25rem; /* Changed from 15rem to 25 rem by ben on 8/1/23 */
 }
 
 @media (min-width: 992px) {
@@ -10988,7 +10988,7 @@ html {
     padding-bottom: 6rem;
   }
   .masthead .masthead-heading {
-    font-size: 4rem;
+    font-size: 3rem;  /*changed from 4rem to 3rem by ben on 8/1/23 */
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
